@@ -1,1 +1,2 @@
 # veleri-dt
+#novi kod
